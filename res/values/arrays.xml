@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 	<string-array name="sms">
+		<item>老婆我在外面吃饭</item>
+		<item>老婆我在外面打牌</item>
+		<item>老婆我快到家了</item>
+	</string-array>   
+</resources>

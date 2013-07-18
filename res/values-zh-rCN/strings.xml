@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">给老婆发短信</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">快点向老婆汇报一下现在状态吧！</string>
+    <string name="Send">发送短信</string>
+    <string name="SelectSms">选择一条您要发送的短信</string>
+    <string name="WifeNumber">请输入老婆的号码</string>
+    <string name="save_number">保存手机号码</string>
+
+</resources>
